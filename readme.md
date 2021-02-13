@@ -1,2 +1,2 @@
 # README
-The durian vulnerable JS project!
+A vulnerable JS project for security training!
