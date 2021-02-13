@@ -1,2 +1,2 @@
 # README
-The durian project!
+The durian vulnerable JS project!
